@@ -1,4 +1,5 @@
 <head>  
     <!-- meta http-equiv="refresh" content="0;url=http://__JUMP_URL__" -->
-    <script type="text/javascript">window.location.href="http://__JUMP_URL__";</script>
+    <!-- script type="text/javascript">window.location.href="http://__JUMP_URL__";</script -->
+    <a href=http://__JUMP_URL__>http://__JUMP_URL__</a>
 </head>
